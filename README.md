@@ -4,4 +4,4 @@ Task 2:PREDICTION USING DECISION TREE ALGORITHM(2nd task in intermediate level).
 
 Task 3:IMAGE TO PENCIL SKETCH USING PYTHON(4th task in beginner level).
 
-Task 4:
+Task 4:EXPLORATORY DATA ANALYSIS ON DATASET-TERRORISM(1st task in intermediate level).
